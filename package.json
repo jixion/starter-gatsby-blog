@@ -2,10 +2,10 @@
   "name": "contentful-starter-gatsby-blog",
   "description": "Contentful Gatsby Starter Blog",
   "private": true,
-  "version": "0.0.2",
-  "author": "Contentful <opensource@contentful.com>",
+  "version": "0.0.3",
+  "author": "Jeff Burroughs <jburroughs@sparkimaginations.com>",
   "bugs": {
-    "url": "https://github.com/contentful/starter-gatsby-blog/issues"
+    "url": "https://sparkimaginations.com/"
   },
   "dependencies": {
     "gatsby": "^2.23.9",
@@ -28,7 +28,7 @@
   "engines": {
     "node": ">=10.13.0"
   },
-  "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
+  "homepage": "https://github.com/jixion/starter-gatsby-blog#readme",
   "keywords": [
     "gatsby",
     "contentful",
@@ -38,7 +38,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contentful/starter-gatsby-blog.git"
+    "url": "git+https://github.com/jixion/starter-gatsby-blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
