@@ -2,7 +2,7 @@
   "name": "contentful-starter-gatsby-blog",
   "description": "Contentful Gatsby Starter Blog",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Jeff Burroughs <jburroughs@sparkimaginations.com>",
   "bugs": {
     "url": "https://sparkimaginations.com/"
